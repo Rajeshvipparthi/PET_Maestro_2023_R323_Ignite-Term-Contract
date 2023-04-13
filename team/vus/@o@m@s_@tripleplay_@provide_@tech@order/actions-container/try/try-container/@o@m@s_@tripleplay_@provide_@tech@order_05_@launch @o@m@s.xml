@@ -1,0 +1,15 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_Tripleplay_Provide_TechOrder_05_Launch OMS" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="8a076b65-5a57-4dc4-a727-556a0ef6a256" weightsEnabled="false">
+    <weighted-embedded-action uid="de3cc2ba-09d4-45d8-9cb7-0d17216f863e"/>
+    <weighted-embedded-action uid="89999fbb-a953-4d7d-a751-00d9b0902983"/>
+    <weighted-embedded-action uid="de743262-bb7d-42d9-806d-40e97a7f366b"/>
+    <weighted-embedded-action uid="76f0a268-aa88-4924-9ca3-895c5b032685"/>
+    <weighted-embedded-action uid="80d7e0d9-b93f-46f3-ae3d-8165d81e1d6f"/>
+    <weighted-embedded-action uid="26934109-826a-427b-8a58-b97b0d2edc1f"/>
+    <weighted-embedded-action uid="3787a633-9ca3-4d57-9108-89297f465ce7"/>
+    <weighted-embedded-action uid="579ad3b7-d2c3-4bab-b4ad-fd44217be298"/>
+    <weighted-embedded-action uid="e5086e5b-8e0f-4397-8b5d-ebb9df4cbea7"/>
+    <weighted-embedded-action uid="4dc0936d-fd8c-45c2-9bd1-acbd0975f9be"/>
+</basic-logical-action-container>

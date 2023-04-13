@@ -1,0 +1,8 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Tripleplay_Change_Remove_Chanal_05_Open SearchOrderWindow"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="0955635b-8cd0-48b1-a641-ae05ddb75847" weightsEnabled="false">
+    <weighted-embedded-action uid="26d7acba-ece4-4f9a-9b94-ca5eb9cd217f"/>
+    <weighted-embedded-action uid="f138d6c6-2a0c-48b3-8997-964aaddba0d5"/>
+</basic-logical-action-container>

@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Tripleplay_Change_14_Submit Order" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="416f57a0-d19a-4039-a190-8edf7e9c230b" weightsEnabled="false">
+    <weighted-embedded-action uid="c26c405a-10cc-4d3c-af37-2c8a5deff06f"/>
+    <weighted-embedded-action uid="c32b081e-24b7-443e-9368-d6d99b472802"/>
+</basic-logical-action-container>

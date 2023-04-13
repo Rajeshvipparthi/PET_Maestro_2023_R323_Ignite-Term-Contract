@@ -1,0 +1,9 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_Tripleplay_Provide_TechOrder_06_Installation"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="ef0cc449-d686-4a42-9063-84d16b2f6682" weightsEnabled="false">
+    <weighted-embedded-action uid="2dfe85be-94c8-470b-a19d-e2ffe5e2e90d"/>
+    <weighted-embedded-action uid="db55a6ea-ee01-46f9-94fd-4bdd29a4d178"/>
+    <weighted-embedded-action uid="a549ae1d-11ce-452e-b18c-c4214c6613cd"/>
+</basic-logical-action-container>

@@ -1,0 +1,9 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_TriplePlay_Provide_GrabAndGo_Imm_03_LuanchApplication"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="113276f2-5608-4af3-a707-96e6397ca129" weightsEnabled="false">
+    <weighted-embedded-action uid="9277c75a-760e-4e93-b744-3dc44c803c94"/>
+    <weighted-embedded-action uid="99835042-3fac-4766-801e-2aefb8aadbfc"/>
+    <weighted-embedded-action uid="d3dbb50c-686d-4b5f-b43f-814dbbccfc9e"/>
+</basic-logical-action-container>

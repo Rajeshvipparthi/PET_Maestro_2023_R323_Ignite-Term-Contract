@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_Collection_Cease_FindCaller_03" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="3af6cf86-ccff-49be-92a2-2a0fcc080f17" weightsEnabled="false">
+    <weighted-embedded-action uid="6a14019c-2384-4e2b-8bba-d78bb460416e"/>
+    <weighted-embedded-action uid="f84f873c-4837-4976-8b83-5385b4d27871"/>
+</basic-logical-action-container>

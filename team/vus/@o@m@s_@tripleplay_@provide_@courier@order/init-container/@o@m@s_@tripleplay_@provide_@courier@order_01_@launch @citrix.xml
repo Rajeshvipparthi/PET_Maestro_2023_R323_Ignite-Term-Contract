@@ -1,0 +1,9 @@
+<basic-logical-action-container element-number="1" enabled="false"
+    execution-type="0"
+    name="OMS_Tripleplay_Provide_CourierOrder_01_Launch Citrix"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="e5b80330-d43e-4085-8534-8c5a20638319" weightsEnabled="false">
+    <weighted-embedded-action uid="71af207f-9a3d-4812-9afb-191be8fe559c"/>
+    <weighted-embedded-action uid="4602d2a7-eac1-454b-8597-078da1ceec71"/>
+</basic-logical-action-container>

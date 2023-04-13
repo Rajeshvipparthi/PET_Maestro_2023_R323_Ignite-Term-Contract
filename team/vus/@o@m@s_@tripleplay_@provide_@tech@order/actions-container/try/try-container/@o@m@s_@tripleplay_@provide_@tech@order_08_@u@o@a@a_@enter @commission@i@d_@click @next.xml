@@ -1,0 +1,16 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_Tripleplay_Provide_TechOrder_08_UOAA_Enter CommissionID_Click Next"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="6c894cc5-2b38-4d31-9424-d39cf32379d5" weightsEnabled="false">
+    <weighted-embedded-action uid="f771d62c-557e-4591-ad28-ff474ec0aca8"/>
+    <weighted-embedded-action uid="049a10f1-cea8-4288-b22f-6dcf2f135c20"/>
+    <weighted-embedded-action uid="d7403387-da1b-47fa-913b-080209edc6c4"/>
+    <weighted-embedded-action uid="ac18bb70-9f29-49a5-896b-43247d0ecab5"/>
+    <weighted-embedded-action uid="6e589782-5ee7-4f01-860c-78bf16c4c69f"/>
+    <weighted-embedded-action uid="af9aad18-7524-4cf7-9619-af60e2f1aec8"/>
+    <weighted-embedded-action uid="71512587-6e9f-4a07-b6f5-b344e9e82e53"/>
+    <weighted-embedded-action uid="6579c4cf-aaca-488b-b61e-2ed75cec042e"/>
+    <weighted-embedded-action uid="42712446-452d-433d-bd12-88226fcc7787"/>
+    <weighted-embedded-action uid="5d0a062d-6f7c-4574-bcc8-1f93c4d8fd45"/>
+</basic-logical-action-container>

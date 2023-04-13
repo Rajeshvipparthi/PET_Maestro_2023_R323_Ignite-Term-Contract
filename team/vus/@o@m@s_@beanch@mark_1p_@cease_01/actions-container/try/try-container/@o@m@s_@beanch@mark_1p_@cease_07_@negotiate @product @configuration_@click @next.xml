@@ -1,0 +1,8 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_BeanchMark_1p_Cease_07_Negotiate Product Configuration_Click Next"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="8d8640b0-1795-4bc2-b82c-7837b303243f" weightsEnabled="false">
+    <weighted-embedded-action uid="d022f06a-06b3-4eb9-b9c8-804e80984bd0"/>
+    <weighted-embedded-action uid="b24ed51a-bb78-42d5-a46e-d248f15fae3c"/>
+</basic-logical-action-container>

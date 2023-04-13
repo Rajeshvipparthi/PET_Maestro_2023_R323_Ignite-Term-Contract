@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_TriplePlay_Provide_Imm_13_Submit Order" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="adfa17a2-6582-4e9b-80c5-5304c61bcf42" weightsEnabled="false">
+    <weighted-embedded-action uid="2f2ebf7c-8cd4-4b7e-97e4-93fcae11e3b5"/>
+</basic-logical-action-container>

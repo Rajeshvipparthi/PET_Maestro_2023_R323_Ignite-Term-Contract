@@ -1,0 +1,10 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_Tripleplay_Provide_TechOrder_04_Find_caller" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="5283972e-47e0-45d4-a081-db6e290a6bd6" weightsEnabled="false">
+    <weighted-embedded-action uid="0f9ec2e2-722a-4443-9872-6c47aacfe58f"/>
+    <weighted-embedded-action uid="cd8cdab6-092e-4375-b68e-d26db95c24cb"/>
+    <weighted-embedded-action uid="b15514b2-589d-4a24-bd7d-bda2cf2a3997"/>
+    <weighted-embedded-action uid="3b8dc524-8627-42cc-b8db-9d018a76d8b4"/>
+    <weighted-embedded-action uid="c6f2f649-5d10-44ca-a04c-d76872e66c34"/>
+</basic-logical-action-container>

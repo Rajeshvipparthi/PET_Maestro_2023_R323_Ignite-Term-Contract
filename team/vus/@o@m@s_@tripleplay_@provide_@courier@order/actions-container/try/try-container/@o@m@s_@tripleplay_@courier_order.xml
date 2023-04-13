@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_Tripleplay_Courier_order" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="d24ba529-3c50-4788-ba8a-52f5cd1dd456" weightsEnabled="false">
+    <weighted-embedded-action uid="a85f92b6-3e43-4354-ae86-96d7580ea211"/>
+    <weighted-embedded-action uid="ae6da3f0-c604-4576-aad3-cdc9c39824df"/>
+</basic-logical-action-container>

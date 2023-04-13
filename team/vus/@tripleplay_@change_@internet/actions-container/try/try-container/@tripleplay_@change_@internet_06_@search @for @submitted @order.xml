@@ -1,0 +1,8 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Tripleplay_Change_Internet_06_Search For Submitted Order"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="d92bcef7-d64c-435c-a2b1-04ba2a7365be" weightsEnabled="false">
+    <weighted-embedded-action uid="f1639ec6-120b-499d-b3b8-4a3caee47e4d"/>
+    <weighted-embedded-action uid="6f1707fb-957b-4153-b6bf-55492fa8ff9a"/>
+</basic-logical-action-container>

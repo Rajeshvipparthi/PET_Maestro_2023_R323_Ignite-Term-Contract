@@ -1,0 +1,3 @@
+<variable-constant constantValue="60000" name="OMS_Tripleplay_Moveimported_citrixWaitTimeoutInMs-UserPath_2" order="1" policy="1" range="2" uid="2c362651-9ddb-471e-8497-69a3588bf8d6" whenOutOfValues="CYCLE_VALUES">
+<description>Maximum timeout in milliseconds to wait on Citrix action WindowWait, ScreenshotWait and TextWait for user path UserPath_2.</description>
+</variable-constant>

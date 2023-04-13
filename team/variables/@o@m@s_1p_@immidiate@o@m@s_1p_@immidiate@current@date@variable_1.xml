@@ -1,0 +1,1 @@
+<variable-currentdate inc-type="-1" inc-value="0" name="OMS_1p_ImmidiateOMS_1p_ImmidiateCurrentDateVariable_1" order="1" pattern="dd. MMMM yyyy HH:mm:ss.S z" policy="1" range="2" uid="132d70f3-1507-4afb-bf2a-b1fc23b1c7e9" whenOutOfValues="CYCLE_VALUES"/>

@@ -1,0 +1,79 @@
+<http-page executeResourcesDynamically="false" name="/urs.asmx"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@o@m@s_@tripleplay_@provide_@courier@order/%resources%/recorded-artifacts/501b91c9-7646-4f0b-9bc5-7f6664718ad4.zip"
+    slaProfileEnabled="false" thinkTime="188"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="501b91c9-7646-4f0b-9bc5-7f6664718ad4">
+    <embedded-action>3c35fd19-fb4a-47be-be91-656354dc2436</embedded-action>
+    <embedded-action>bee4c7ec-165a-40f1-91f9-2a1fce790367</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/xml; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/urs.asmx" path="/urs.asmx" postType="4"
+    recordedArtifactZipFileName="team/vus/@o@m@s_@tripleplay_@provide_@courier@order/%resources%/recorded-artifacts/501b91c9-7646-4f0b-9bc5-7f6664718ad4.zip"
+    recordedResponseCode="200" responseSize="732"
+    serverUid="OMS_Tripleplay_Courier_orderurs.microsoft.com"
+    slaProfileEnabled="false" uid="3c35fd19-fb4a-47be-be91-656354dc2436" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_2dd38178-e189-40e4-b365-5f2928a15bfc.xml</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_2dd38178-e189-40e4-b365-5f2928a15bfc.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="MSURS-Client-Key"
+        recordRawValue="lDq57clz3PdUZzxYpPjwlQ%3d%3d" separator="="
+        value="lDq57clz3PdUZzxYpPjwlQ==" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="MSURS-MAC" recordRawValue="4GhjRvFeA28%3d" separator="="
+        value="4GhjRvFeA28=" valueMode="USE_VALUE"/>
+    <header name="Accept" value="text/*"/>
+    <header name="Cache-Control" value="no-cache"/>
+    <header name="Content-Type" value="text/xml; charset=utf-8"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="urs.microsoft.com"/>
+    <header name="User-Agent" value="VCSoapClient"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: max-age=0, private&#xd;
+Content-Length: 732&#xd;
+Content-Type: text/xml; charset=utf-8&#xd;
+Server: Microsoft-HTTPAPI/2.0&#xd;
+Date: Wed, 27 Jul 2022 13:58:29 GMT&#xd;
+Connection: close</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[<RepLookup v="6"><G>4A72F430-B40C-4D36-A068-CE33ADA5ADF9</G><O>D13F00C3-16B3-DC5F-FA68-49565BAE83B4</O><DID>qxLsQ5EPkrgXwsEY3aMxCmldhL+Jb/euVSAPxxmMbGI=:0</DID><UID>w:A17FF318-C81F-F19D-8F39-75FEDAD93BE9</UID><D>10.0.8110.6</D><C>11.0.0.0</C><OS>10.0.17763.0.0</OS><I>9.11.17763.0</I><L>en-US</L><RU>aHR0cHM6Ly9pbnRucGVzdGZsb2dpbi5yY2kucm9nZXJzLmNvbS9DaXRyaXgvSW50TlBFX1hBNjVXZWIv</RU><RI>0000:0000:0000:0000:0000:0000:0000:0001</RI><R><Rq><URL>aHR0cHM6Ly9pbnRucGVzdGZsb2dpbi5yY2kucm9nZXJzLmNvbS9jaXRyaXgvaW50bnBlX3hhNjV3ZWI=</URL><O>POST</O><T>ACTION</T><HIP>0.0.0.0</HIP></Rq><Rq><URL>aHR0cHM6Ly9pbnRucGVzdGZsb2dpbi5yY2kucm9nZXJzLmNvbS9jaXRyaXgvaW50bnBlX3hhNjV3ZWIvZXhwbGljaXRhdXRoL2xvZ2luYXR0ZW1wdA==</URL><O>POST</O><T>ACTION</T><HIP>0.0.0.0</HIP></Rq><Rq><URL>aHR0cHM6Ly9pbnRucGVzdGZsb2dpbi5yY2kucm9nZXJzLmNvbS9DaXRyaXgvSW50TlBFX1hBNjVXZWIvUmVzb3VyY2VzL0xhdW5jaEljYS9SR1ZtWVhWc2RFRm5aM0psWjJGMGFXOXVSM0p2ZFhBdVhGQkZWRnhRUlZSZlRXRmxjM1J5YjE5RmJtZHNhWE5vTFZOcGJtZHNaVjgzTFRFMS5pY2E/Q3NyZlRva2VuPUE0MDRDMTUxRjIwODA3RjA0RUNERDg3MUVBQURENjNFJklzVXNpbmdIdHRwcz1ZZXMmbGF1bmNoSWQ9MTY1ODkzMDMwODcxOA==</URL><O>POST</O><T>FRAME</T><HIP>0.0.0.0</HIP></Rq></R><WA/><PRT>4766</PRT></RepLookup>]]></textPostContent>
+</http-action>
+<http-action actionType="1" contentType="text/xml; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/urs.asmx" path="/urs.asmx" postType="4"
+    recordedArtifactZipFileName="team/vus/@o@m@s_@tripleplay_@provide_@courier@order/%resources%/recorded-artifacts/501b91c9-7646-4f0b-9bc5-7f6664718ad4.zip"
+    recordedResponseCode="200" responseSize="362"
+    serverUid="OMS_Tripleplay_Courier_orderurs.microsoft.com"
+    slaProfileEnabled="false" uid="bee4c7ec-165a-40f1-91f9-2a1fce790367" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_578ddd01-b596-4655-935c-6d09acaa58b8.xml</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_578ddd01-b596-4655-935c-6d09acaa58b8.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="false"
+        name="MSURS-Client-Key"
+        recordRawValue="0TCs6A30pQgp/Zg%2biPssIQ%3d%3d" separator="="
+        value="0TCs6A30pQgp/Zg%2biPssIQ%3d%3d" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="MSURS-MAC" recordRawValue="pxA0oThdnKk%3d" separator="="
+        value="pxA0oThdnKk=" valueMode="USE_VALUE"/>
+    <header name="Accept" value="text/*"/>
+    <header name="Cache-Control" value="no-cache"/>
+    <header name="Content-Type" value="text/xml; charset=utf-8"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="urs.microsoft.com"/>
+    <header name="User-Agent" value="VCSoapClient"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: max-age=0, private&#xd;
+Content-Length: 362&#xd;
+Content-Type: text/xml; charset=utf-8&#xd;
+Server: Microsoft-HTTPAPI/2.0&#xd;
+Date: Wed, 27 Jul 2022 13:58:28 GMT&#xd;
+Connection: close</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[<RepLookup v="6"><G>4A72F430-B40C-4D36-A068-CE33ADA5ADF9</G><O>D13F00C3-16B3-DC5F-FA68-49565BAE83B4</O><DID>qxLsQ5EPkrgXwsEY3aMxCmldhL+Jb/euVSAPxxmMbGI=:0</DID><UID>w:A17FF318-C81F-F19D-8F39-75FEDAD93BE9</UID><D>10.0.8110.6</D><C>11.0.0.0</C><OS>10.0.17763.0.0</OS><I>9.11.17763.0</I><L>en-US</L><RU>aHR0cHM6Ly9pbnRucGVzdGZsb2dpbi5yY2kucm9nZXJzLmNvbS9DaXRyaXgvSW50TlBFX1hBNjVXZWIv</RU><RI>0000:0000:0000:0000:0000:0000:0000:0001</RI><R><Rq><URL>aHR0cHM6Ly9pbnRucGVzdGZsb2dpbi5yY2kucm9nZXJzLmNvbS9DaXRyaXgvSW50TlBFX1hBNjVXZWIvUmVzb3VyY2VzL0xhdW5jaEljYS9SR1ZtWVhWc2RFRm5aM0psWjJGMGFXOXVSM0p2ZFhBdVhGQkZWRnhRUlZSZlRXRmxjM1J5YjE5RmJtZHNhWE5vTFZOcGJtZHNaVjgzTFRFMS5pY2E/Q3NyZlRva2VuPUE0MDRDMTUxRjIwODA3RjA0RUNERDg3MUVBQURENjNFJklzVXNpbmdIdHRwcz1ZZXMmbGF1bmNoSWQ9MTY1ODkzMDMwODcxOA==</URL><O>PRE</O><T>TOP</T><HIP>0000:0000:0000:0000:0000:0000:0000:0001</HIP></Rq></R><WA/><PRT>4766</PRT></RepLookup>]]></textPostContent>
+</http-action>

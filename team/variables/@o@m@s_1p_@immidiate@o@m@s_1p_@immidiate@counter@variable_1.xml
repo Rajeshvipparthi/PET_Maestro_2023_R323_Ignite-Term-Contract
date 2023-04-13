@@ -1,0 +1,1 @@
+<variable-counter inc="100" max="999999999" name="OMS_1p_ImmidiateOMS_1p_ImmidiateCounterVariable_1" order="1" policy="1" range="1" starting="275000000" uid="a238a1eb-ba57-4e5f-8a08-69a24cfeb28f" whenOutOfValues="CYCLE_VALUES"/>

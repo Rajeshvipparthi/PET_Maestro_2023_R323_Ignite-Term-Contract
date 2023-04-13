@@ -1,0 +1,9 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_BenchMark_1p_TO_3p _change_01_Launch Citrix" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="ce18cde3-f5fe-462b-8474-f8d915fb802b" weightsEnabled="false">
+    <weighted-embedded-action uid="2c6a0671-9e59-4856-900e-a620588e9415"/>
+    <weighted-embedded-action uid="1ab5e06a-c7e0-4cd6-b324-3a0933e714c4"/>
+    <weighted-embedded-action uid="e13cacfa-cac4-4569-8028-0d682e0d1a6a"/>
+    <weighted-embedded-action uid="423be948-14d6-4337-97e2-28f29ffe78d7"/>
+</basic-logical-action-container>

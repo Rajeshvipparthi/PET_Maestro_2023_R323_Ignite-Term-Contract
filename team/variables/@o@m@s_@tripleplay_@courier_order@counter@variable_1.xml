@@ -1,0 +1,1 @@
+<variable-counter inc="100" max="999999999" name="OMS_Tripleplay_Courier_orderCounterVariable_1" order="1" policy="1" range="1" starting="275000000" uid="508d07b0-fa0b-4be8-87ce-4352be4525a1" whenOutOfValues="CYCLE_VALUES"/>

@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_Collection_Cease_OrderSubmit_10" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="41056d45-b39b-473b-8217-8c022616e2e0" weightsEnabled="false">
+    <weighted-embedded-action uid="f72e60ab-ef0f-455e-9046-8c985ce359ef"/>
+</basic-logical-action-container>

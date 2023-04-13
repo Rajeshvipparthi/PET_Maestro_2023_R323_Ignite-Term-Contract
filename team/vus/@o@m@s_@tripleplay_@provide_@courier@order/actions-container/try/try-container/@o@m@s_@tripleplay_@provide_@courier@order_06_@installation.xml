@@ -1,0 +1,9 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_Tripleplay_Provide_CourierOrder_06_Installation"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="693fe558-b432-46b4-b662-783c0e2ea0c6" weightsEnabled="false">
+    <weighted-embedded-action uid="d2503447-1612-433e-9ef6-9614a1e16411"/>
+    <weighted-embedded-action uid="933d2341-c9f8-4dcf-9627-29aded1914b6"/>
+    <weighted-embedded-action uid="deb9c955-9eb0-40e0-a104-25b6930780f3"/>
+</basic-logical-action-container>

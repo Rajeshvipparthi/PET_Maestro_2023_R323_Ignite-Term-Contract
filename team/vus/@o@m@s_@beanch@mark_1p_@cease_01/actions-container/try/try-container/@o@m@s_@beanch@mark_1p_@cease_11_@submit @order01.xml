@@ -1,0 +1,9 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_BeanchMark_1p_Cease_11_Submit Order01" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="e7c4c9e1-f846-4288-a758-1cdac3939201" weightsEnabled="false">
+    <weighted-embedded-action uid="5646c92c-e56f-4c1e-9af1-ccfdfe33ed31"/>
+    <weighted-embedded-action uid="a897a5d5-b83f-4753-b4be-907ea2a0df20"/>
+    <weighted-embedded-action uid="e44b4f18-8de5-4afb-b5bf-2e1273514573"/>
+    <weighted-embedded-action uid="7fe4c7ee-18b9-4a4f-b5a8-d3d8263e5791"/>
+</basic-logical-action-container>

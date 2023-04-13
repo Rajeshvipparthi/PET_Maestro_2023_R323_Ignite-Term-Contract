@@ -1,0 +1,1 @@
+<variable-counter inc="100" max="999999999" name="OMS_Tripleplay_Moveimported_CounterVariable_1" order="1" policy="1" range="1" starting="275000000" uid="526c0101-05e3-47af-83dd-18d993762e1d" whenOutOfValues="CYCLE_VALUES"/>

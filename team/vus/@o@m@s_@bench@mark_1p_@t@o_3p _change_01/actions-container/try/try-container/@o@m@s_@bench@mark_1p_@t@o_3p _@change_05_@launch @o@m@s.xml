@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_BenchMark_1p_TO_3p _Change_05_Launch OMS" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="ec2fae05-d3cf-42a0-8e7b-871d4fcc13fa" weightsEnabled="false">
+    <weighted-embedded-action uid="3907686c-b769-42d8-a661-dabd7d4ea3a7"/>
+    <weighted-embedded-action uid="784d9b34-a7ca-42f0-bd9a-723dc72ff7f2"/>
+</basic-logical-action-container>

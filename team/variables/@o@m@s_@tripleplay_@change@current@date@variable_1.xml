@@ -1,0 +1,1 @@
+<variable-currentdate inc-type="-1" inc-value="0" name="OMS_Tripleplay_ChangeCurrentDateVariable_1" order="1" pattern="dd. MMMM yyyy HH:mm:ss.S z" policy="1" range="2" uid="01f8c65d-9069-4ef0-8ced-36743f9127ac" whenOutOfValues="CYCLE_VALUES"/>

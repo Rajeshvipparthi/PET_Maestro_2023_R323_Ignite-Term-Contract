@@ -1,0 +1,1 @@
+<variable-currentdate inc-type="0" inc-value="0" name="OMS_4p_DIY_Tech_OrdreCitrixTimestamp" order="1" pattern="milliseconds since the UNIX epoch" policy="1" range="2" uid="19564cd7-0a8a-45f8-afca-63e3d3071c9c" whenOutOfValues="CYCLE_VALUES"/>

@@ -1,0 +1,9 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_BenchMark_1p_TO_3p _change_04_CRM LogIn" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="78c76679-8905-4e32-ae7c-3a7f33085033" weightsEnabled="false">
+    <weighted-embedded-action uid="c73a8c4b-6e86-4779-b967-f454bd1d02e6"/>
+    <weighted-embedded-action uid="efb877a9-c4d7-4bd4-b5ce-6870ecc264cb"/>
+    <weighted-embedded-action uid="54a86c3e-8d66-4aa1-895f-066231fa9c80"/>
+    <weighted-embedded-action uid="dd7b0b73-25c6-48f6-83f2-861f3ec2cbe2"/>
+</basic-logical-action-container>

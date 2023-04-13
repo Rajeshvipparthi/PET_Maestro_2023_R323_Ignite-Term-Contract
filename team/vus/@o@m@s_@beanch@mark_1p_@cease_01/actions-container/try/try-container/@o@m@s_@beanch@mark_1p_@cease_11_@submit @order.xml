@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_BeanchMark_1p_Cease_11_Submit Order" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="22811b60-f6e8-42ce-81a8-6b26a62ef308" weightsEnabled="false">
+    <weighted-embedded-action uid="e5c07eed-7b82-4af7-96a6-244bb0df1154"/>
+    <weighted-embedded-action uid="ebf313b1-61d3-423a-a801-7106976a6717"/>
+</basic-logical-action-container>

@@ -1,0 +1,23 @@
+<basic-logical-action-container element-number="1" enabled="false"
+    execution-type="0" name="OMSAddinternetPlan" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="9f7ed01c-ef8e-48f1-b329-7639131799a0" weightsEnabled="false">
+    <weighted-embedded-action uid="2fcb4cbe-ecb7-4f5f-bad7-75c9856f8d29"/>
+    <weighted-embedded-action uid="1177f25f-9b07-48ac-90b5-5080a85c4ab8"/>
+    <weighted-embedded-action uid="3a69adf4-8001-4c46-a07b-dd271549d0ee"/>
+    <weighted-embedded-action uid="97365a3a-73c5-4b4e-9539-7eef7968701a"/>
+    <weighted-embedded-action uid="6f5f62c7-b8b3-479e-a524-33b2900baf06"/>
+    <weighted-embedded-action uid="a994adf3-463d-408c-87d0-36a29dd56ba2"/>
+    <weighted-embedded-action uid="1f2fd3b2-0b1c-4b35-9c30-9a94dda4a968"/>
+    <weighted-embedded-action uid="08492f7a-81df-44d2-94cd-a0d9c6b1a173"/>
+    <weighted-embedded-action uid="77eaeb2e-a36f-4f3e-b05e-c3129af3a1ee"/>
+    <weighted-embedded-action uid="5fd6366e-84eb-4e23-97fc-3965e06fd955"/>
+    <weighted-embedded-action uid="1b588e3a-94b6-46ad-8294-74cbb5ff8d8b"/>
+    <weighted-embedded-action uid="25173de2-17f5-488e-9201-68c8690a9af3"/>
+    <weighted-embedded-action uid="3397d943-e3d6-442c-95a4-2ed23349667b"/>
+    <weighted-embedded-action uid="92702895-add0-47cf-bb7f-da3613dce817"/>
+    <weighted-embedded-action uid="a69514a3-45fc-474f-8ef4-92ed9e03cc1d"/>
+    <weighted-embedded-action uid="e456ff9c-b22a-4cf0-b6e1-67d3c83c6271"/>
+    <weighted-embedded-action uid="3958c00b-a142-432c-8d18-a5d0940c4f54"/>
+    <weighted-embedded-action uid="d0b811d4-5ef5-4313-b49b-4f7f645034cd"/>
+</basic-logical-action-container>

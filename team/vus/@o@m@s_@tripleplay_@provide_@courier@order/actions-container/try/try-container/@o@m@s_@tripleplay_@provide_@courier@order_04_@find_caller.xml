@@ -1,0 +1,11 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_Tripleplay_Provide_CourierOrder_04_Find_caller"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="8bae16c9-06ab-4a7c-9c1a-4faff2c9cb2e" weightsEnabled="false">
+    <weighted-embedded-action uid="c40df3fe-2d8e-4a30-aa62-bfe6eb10197b"/>
+    <weighted-embedded-action uid="8bbf5aac-5f7d-4dce-a6e4-423a7a8f025c"/>
+    <weighted-embedded-action uid="313749db-7775-4875-8b96-7fc4e9dd3752"/>
+    <weighted-embedded-action uid="a63d7051-1f26-451b-a33e-4618a54457b3"/>
+    <weighted-embedded-action uid="a6fd1570-a147-46a0-b7f0-b1a5580d0453"/>
+</basic-logical-action-container>

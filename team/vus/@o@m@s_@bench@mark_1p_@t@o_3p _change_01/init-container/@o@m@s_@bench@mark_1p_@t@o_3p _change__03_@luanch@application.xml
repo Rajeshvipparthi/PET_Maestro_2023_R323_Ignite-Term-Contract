@@ -1,0 +1,9 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_BenchMark_1p_TO_3p _change__03_LuanchApplication"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="695a257b-adcf-4c15-a673-b6b41befad4f" weightsEnabled="false">
+    <weighted-embedded-action uid="c991540d-b80a-4179-98d7-f460ef3b02ee"/>
+    <weighted-embedded-action uid="a438f87d-b8b5-4f6c-85ce-36f6b07679c6"/>
+    <weighted-embedded-action uid="63b441ad-4c68-4706-9d95-cad717cae58b"/>
+</basic-logical-action-container>

@@ -1,0 +1,10 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_BenchMark_DualPlay_Provide_TechOrde_04_CRM LogIn"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="49bae954-3ecb-483f-881c-4013feffc859" weightsEnabled="false">
+    <weighted-embedded-action uid="fe1f0b4d-d6fa-41de-a7aa-331f4bc7d6c3"/>
+    <weighted-embedded-action uid="1971aec2-0dd9-4f14-a05c-d3ef918b40ae"/>
+    <weighted-embedded-action uid="1003ac5f-dad4-48ea-b724-b07f8a37beeb"/>
+    <weighted-embedded-action uid="8b9bda4b-2c39-47fa-a404-76a267411e1d"/>
+</basic-logical-action-container>

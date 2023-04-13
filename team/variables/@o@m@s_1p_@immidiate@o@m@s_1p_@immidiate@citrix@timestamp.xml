@@ -1,0 +1,1 @@
+<variable-currentdate inc-type="0" inc-value="0" name="OMS_1p_ImmidiateOMS_1p_ImmidiateCitrixTimestamp" order="1" pattern="milliseconds since the UNIX epoch" policy="1" range="2" uid="3765c79d-45a5-4157-812e-7f111aceeca4" whenOutOfValues="CYCLE_VALUES"/>

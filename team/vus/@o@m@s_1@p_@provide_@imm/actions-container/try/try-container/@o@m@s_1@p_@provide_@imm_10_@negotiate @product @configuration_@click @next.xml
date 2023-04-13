@@ -1,0 +1,8 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_1P_Provide_Imm_10_Negotiate Product Configuration_Click Next"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="21d926f1-a070-4a2d-b01e-25e3779f98c2" weightsEnabled="false">
+    <weighted-embedded-action uid="06e854f5-d528-4c27-a755-44509ea1ed62"/>
+    <weighted-embedded-action uid="2948f48d-5127-4ecb-8db5-a32f0b6c7f96"/>
+</basic-logical-action-container>

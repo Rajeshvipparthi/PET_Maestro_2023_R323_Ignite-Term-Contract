@@ -1,0 +1,8 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_BenchMark_1p_TO_3p _Change_08_Update Order Action Attributes_Click Next"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="de07f18d-de8f-4ff8-8959-5891bf1c8722" weightsEnabled="false">
+    <weighted-embedded-action uid="e6e91c5f-3e29-4473-8359-dad50ba0fad7"/>
+    <weighted-embedded-action uid="18c92b26-8738-4e72-8cc0-da75f0253766"/>
+</basic-logical-action-container>

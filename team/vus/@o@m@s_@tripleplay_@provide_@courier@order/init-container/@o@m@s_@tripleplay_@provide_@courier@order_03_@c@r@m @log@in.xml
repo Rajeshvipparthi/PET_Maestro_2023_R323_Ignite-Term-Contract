@@ -1,0 +1,21 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_Tripleplay_Provide_CourierOrder_03_CRM LogIn"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="351e5b59-082f-476b-a049-e9703b1ed46a" weightsEnabled="false">
+    <weighted-embedded-action uid="7f3916dc-801b-4a21-84aa-056299aa8bb7"/>
+    <weighted-embedded-action uid="60dc66b1-051f-4b8f-8b77-a478e7530b12"/>
+    <weighted-embedded-action uid="de1ecb04-06a5-46a9-8555-bdaac0bac55b"/>
+    <weighted-embedded-action uid="a86d0727-6a46-48e3-948a-bb49f19f1fe8"/>
+    <weighted-embedded-action uid="56136764-6632-4c90-93e1-268624722073"/>
+    <weighted-embedded-action uid="e5c229a8-368e-4452-8ff5-1a6fe95174f9"/>
+    <weighted-embedded-action uid="945759a6-40b4-4eca-a2a6-9429b4dee599"/>
+    <weighted-embedded-action uid="31b71bfc-38c2-4fed-a85c-b15ba38a421d"/>
+    <weighted-embedded-action uid="f51b7a29-d1ae-4336-b3ea-fd0b69d83d3b"/>
+    <weighted-embedded-action uid="09b013d2-2bc0-4de8-b08a-a63e84f32b71"/>
+    <weighted-embedded-action uid="2bc82d46-7291-4bb9-b623-e31b5ac42187"/>
+    <weighted-embedded-action uid="a1fa75c4-0fbc-4bfe-853f-447d31212de7"/>
+    <weighted-embedded-action uid="2fde409f-8be3-4c88-9ab5-3cbe44715e2c"/>
+    <weighted-embedded-action uid="2fa8c09b-8c4c-4d7a-a9d5-3cd3489d068c"/>
+    <weighted-embedded-action uid="cba92eeb-7fa1-4695-9ca7-7c4a1e7f9ac2"/>
+</basic-logical-action-container>

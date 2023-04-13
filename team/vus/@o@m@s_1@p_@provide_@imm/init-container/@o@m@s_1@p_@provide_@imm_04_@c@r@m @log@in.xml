@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_1P_Provide_Imm_04_CRM LogIn" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="a46da6de-8569-4748-b7ae-ec741b9bc7af" weightsEnabled="false">
+    <weighted-embedded-action uid="aaa58e3a-d06e-4c95-af17-1ec97c4b1bed"/>
+</basic-logical-action-container>

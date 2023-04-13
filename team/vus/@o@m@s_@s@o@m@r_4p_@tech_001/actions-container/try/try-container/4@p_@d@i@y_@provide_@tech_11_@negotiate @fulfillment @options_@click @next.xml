@@ -1,0 +1,8 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="4P_DIY_Provide_Tech_11_Negotiate Fulfillment Options_Click Next"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="cd0b6a1c-33cd-4499-a90d-0205473879f4" weightsEnabled="false">
+    <weighted-embedded-action uid="d1850b89-f104-4720-8616-db4f87418428"/>
+    <weighted-embedded-action uid="f49c25e0-8d05-45e3-a450-6540515e690f"/>
+</basic-logical-action-container>

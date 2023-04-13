@@ -1,0 +1,8 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_BenchMark_1p_TO_3p _change_02_ LogInCitrixStore"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="14125196-2acc-4486-b045-2c9161628384" weightsEnabled="false">
+    <weighted-embedded-action uid="b01fec6e-e2e7-43a2-9f4f-55c832afd92b"/>
+    <weighted-embedded-action uid="afad2241-446f-40e5-bec3-7b61bf817a61"/>
+</basic-logical-action-container>

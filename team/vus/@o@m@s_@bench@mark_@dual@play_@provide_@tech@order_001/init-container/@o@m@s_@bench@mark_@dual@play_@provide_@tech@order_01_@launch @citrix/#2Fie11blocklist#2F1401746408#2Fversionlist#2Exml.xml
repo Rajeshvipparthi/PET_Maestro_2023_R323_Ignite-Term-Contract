@@ -1,0 +1,77 @@
+<http-page enabled="false" executeResourcesDynamically="false"
+    name="/ie11blocklist/1401746408/versionlist.xml"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@o@m@s_@bench@mark_@dual@play_@provide_@tech@order_001/%resources%/recorded-artifacts/3b3c8fcb-ceb8-476c-908c-aff81b60c0f1.zip"
+    slaProfileEnabled="false" thinkTime="9077"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="3b3c8fcb-ceb8-476c-908c-aff81b60c0f1">
+    <embedded-action>110317ab-f26a-4252-b28a-6c3f50b0511a</embedded-action>
+    <embedded-action>8208a2f2-2a7a-45fd-8f61-56dda7cada23</embedded-action>
+</http-page>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/ie11blocklist/1401746408/versionlist.xml"
+    path="/ie11blocklist/1401746408/versionlist.xml" postType="6"
+    recordedArtifactZipFileName="team/vus/@o@m@s_@bench@mark_@dual@play_@provide_@tech@order_001/%resources%/recorded-artifacts/3b3c8fcb-ceb8-476c-908c-aff81b60c0f1.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="imported_imported_iecvlist.microsoft.com_4"
+    slaProfileEnabled="false" uid="110317ab-f26a-4252-b28a-6c3f50b0511a" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_76a31dc0-248a-4bca-8476-943e298604c9</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_9964c968-4c21-4c89-9432-78f4e1c777c6.txt</requestContentFileDescription>
+    <header name="Accept" value="text/xml"/>
+    <header name="Accept-Encoding" value="gzip"/>
+    <header name="Connection" value="Keep-Alive"/>
+    <header name="Cookie" value="SRCHUID=V=2&amp;GUID=B8A04D218E384E0E87832455220A1AB1&amp;dmnchg=1; SRCHD=AF=NOFORM; _EDGE_V=1; MUID=3213EADAB1996A75058FFB6AB0336B07; SRCHUSR=DOB=20220526; SRCHHPGUSR=SRCHLANG=en"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="iecvlist.microsoft.com"/>
+    <header name="If-Modified-Since" value="Fri, 27 May 2022 00:05:41 GMT"/>
+    <responseHeaders>HTTP/1.1 304 Not Modified&#xd;
+Accept-Ranges: bytes&#xd;
+Age: 1693&#xd;
+Cache-Control: max-age=3600&#xd;
+Date: Thu, 02 Mar 2023 16:41:19 GMT&#xd;
+Etag: 0x8D8BD7E4D55BBE4&#xd;
+Last-Modified: Wed, 20 Jan 2021 20:02:23 GMT&#xd;
+Server: ECAcc (dcb/7FFE)&#xd;
+X-Cache: HIT&#xd;
+x-ms-blob-type: BlockBlob&#xd;
+x-ms-lease-status: unlocked&#xd;
+x-ms-request-id: f60f580c-301e-000b-3921-4df576000000&#xd;
+x-ms-version: 2009-09-19</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/ie11blocklist/1401746408/versionlist.xml"
+    path="/ie11blocklist/1401746408/versionlist.xml" postType="6"
+    recordedArtifactZipFileName="team/vus/@o@m@s_@bench@mark_@dual@play_@provide_@tech@order_001/%resources%/recorded-artifacts/3b3c8fcb-ceb8-476c-908c-aff81b60c0f1.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="imported_imported_iecvlist.microsoft.com_4"
+    slaProfileEnabled="false" uid="8208a2f2-2a7a-45fd-8f61-56dda7cada23" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_7d1f8d29-710b-4261-997b-c3cf3de1c528</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_ebd24e72-bb31-4b17-ab2e-2e99dcc01f73.txt</requestContentFileDescription>
+    <header name="Accept" value="text/xml"/>
+    <header name="Accept-Encoding" value="gzip"/>
+    <header name="Connection" value="Keep-Alive"/>
+    <header name="Cookie" value="SRCHUID=V=2&amp;GUID=B8A04D218E384E0E87832455220A1AB1&amp;dmnchg=1; SRCHD=AF=NOFORM; _EDGE_V=1; MUID=3213EADAB1996A75058FFB6AB0336B07; SRCHUSR=DOB=20220526; SRCHHPGUSR=SRCHLANG=en"/>
+    <header name="Host" value="iecvlist.microsoft.com"/>
+    <header name="If-Modified-Since" value="Fri, 27 May 2022 00:05:41 GMT"/>
+    <responseHeaders>HTTP/1.1 304 Not Modified&#xd;
+Accept-Ranges: bytes&#xd;
+Age: 1693&#xd;
+Cache-Control: max-age=3600&#xd;
+Date: Thu, 02 Mar 2023 16:41:19 GMT&#xd;
+Etag: 0x8D8BD7E4D55BBE4&#xd;
+Last-Modified: Wed, 20 Jan 2021 20:02:23 GMT&#xd;
+Server: ECAcc (dcb/7307)&#xd;
+X-Cache: HIT&#xd;
+x-ms-blob-type: BlockBlob&#xd;
+x-ms-lease-status: unlocked&#xd;
+x-ms-request-id: 27afa51e-d01e-00cd-5021-4d884a000000&#xd;
+x-ms-version: 2009-09-19</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

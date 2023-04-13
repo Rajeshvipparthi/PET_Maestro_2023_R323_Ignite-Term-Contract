@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Collection_Suspend_Submit Order" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="3765f8e8-0439-4909-a121-4ad8a7309df3" weightsEnabled="false">
+    <weighted-embedded-action uid="118773bf-0c17-42bf-91b2-ad9975937933"/>
+    <weighted-embedded-action uid="a347349e-e3cb-4e89-8538-e58699291366"/>
+</basic-logical-action-container>

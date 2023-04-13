@@ -1,0 +1,11 @@
+<basic-logical-action-container element-number="1" enabled="false"
+    execution-type="0"
+    name="OMS_Tripleplay_Provide_TechOrder_01_Launch Citrix"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="ca189fd5-690d-4b98-8284-5ca98ba5a54c" weightsEnabled="false">
+    <weighted-embedded-action uid="cf97d8df-c3ff-4c4e-a390-ed2bbe225c1e"/>
+    <weighted-embedded-action uid="52d05562-53c3-41be-ba0f-9a26ca92036a"/>
+    <weighted-embedded-action uid="18a59f1c-2ee2-4781-9d4d-0b359283cef6"/>
+    <weighted-embedded-action uid="80f56809-163c-4793-92c8-a7f230036161"/>
+</basic-logical-action-container>

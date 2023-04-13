@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_BeanchMark_1p_Cease_05_Launch OMS" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="065d6d89-a19f-4700-b4a7-a8e6dbcc833f" weightsEnabled="false">
+    <weighted-embedded-action uid="14f6babf-0130-4a14-9d72-124645b797cc"/>
+    <weighted-embedded-action uid="50f8a639-8cee-4ba5-ba79-a833aff0604d"/>
+</basic-logical-action-container>

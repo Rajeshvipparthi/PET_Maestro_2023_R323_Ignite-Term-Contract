@@ -1,0 +1,10 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_BenchMark_DualPlay_Provide_TechOrder_06_Installation"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="9d35328f-4f06-4ada-b5f9-e666271c48c8" weightsEnabled="false">
+    <weighted-embedded-action uid="bae711f4-199c-404e-98da-661e6dbca2ea"/>
+    <weighted-embedded-action uid="17195541-bca1-4c6a-852e-9a1c7731e795"/>
+    <weighted-embedded-action uid="f778b9da-1097-477b-9c70-38b84e450115"/>
+    <weighted-embedded-action uid="796da46b-1214-47fd-95c0-3ae83f9aa24b"/>
+</basic-logical-action-container>

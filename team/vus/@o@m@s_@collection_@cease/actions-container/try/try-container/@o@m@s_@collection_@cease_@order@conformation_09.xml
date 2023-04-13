@@ -1,0 +1,8 @@
+<basic-logical-action-container element-number="1" enabled="false"
+    execution-type="0" name="OMS_Collection_Cease_OrderConformation_09"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="59594a29-c12b-451d-95b2-c02e617e0f08" weightsEnabled="false">
+    <weighted-embedded-action uid="58256d8a-0e06-4cef-ba22-9616b0d3c127"/>
+    <weighted-embedded-action uid="3a391b3e-e07b-4da3-8531-70b718d16f9f"/>
+</basic-logical-action-container>

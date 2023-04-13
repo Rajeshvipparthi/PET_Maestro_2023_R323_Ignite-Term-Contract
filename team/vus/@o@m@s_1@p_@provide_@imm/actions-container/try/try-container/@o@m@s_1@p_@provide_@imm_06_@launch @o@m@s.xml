@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_1P_Provide_Imm_06_Launch OMS" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="2c8a4a29-2ab0-45e2-86e4-8a61e5f716ae" weightsEnabled="false">
+    <weighted-embedded-action uid="4aaa497f-a7e5-4e31-9527-c3b7c9c113f3"/>
+    <weighted-embedded-action uid="b46c636e-626b-40e0-880a-62996a674bbb"/>
+</basic-logical-action-container>

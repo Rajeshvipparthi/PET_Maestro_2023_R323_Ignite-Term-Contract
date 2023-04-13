@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_Tripleplay_Provide_TechOrder_11_Submit Order"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="83c46963-a34d-42a2-8eed-bf0b97b29555" weightsEnabled="false">
+    <weighted-embedded-action uid="b5508f1d-c400-43e3-a3fb-882919098197"/>
+</basic-logical-action-container>

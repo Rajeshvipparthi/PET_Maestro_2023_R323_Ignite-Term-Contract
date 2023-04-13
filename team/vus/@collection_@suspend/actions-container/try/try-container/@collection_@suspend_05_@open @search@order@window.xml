@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Collection_Suspend_05_Open SearchOrderWindow" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="325f4351-b94b-446d-bb98-154dc1d1f4b4" weightsEnabled="false">
+    <weighted-embedded-action uid="973afcd6-1c45-4486-b64e-a545ad01b719"/>
+    <weighted-embedded-action uid="ce48d6f9-c926-4ae5-962f-9c00c83735f8"/>
+</basic-logical-action-container>

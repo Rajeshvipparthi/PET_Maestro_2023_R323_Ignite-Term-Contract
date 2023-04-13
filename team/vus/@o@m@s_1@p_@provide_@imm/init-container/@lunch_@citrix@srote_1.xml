@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Lunch_CitrixSrote_1" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="37a0f3f4-dc8b-4363-b3b5-a25fad10642a" weightsEnabled="false">
+    <weighted-embedded-action uid="4e382fc6-c496-488c-b582-07b3ffdbcb85"/>
+    <weighted-embedded-action uid="b590f7bd-c854-4e40-a320-c3521d563c01"/>
+</basic-logical-action-container>

@@ -1,0 +1,16 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_Tripleplay_Provide_CourierOrder_05_Launch OMS"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="6b6eddc6-2e8d-4180-97d9-0db823a83282" weightsEnabled="false">
+    <weighted-embedded-action uid="23d3b7b9-1bc1-4375-93fb-4996be4ae814"/>
+    <weighted-embedded-action uid="643194e8-0799-4012-9222-abc1ca583c3a"/>
+    <weighted-embedded-action uid="bcb9bff3-71b3-4acb-8e41-e4fc89c2609b"/>
+    <weighted-embedded-action uid="d5553f23-b31b-4c1e-8daa-23064e8febd7"/>
+    <weighted-embedded-action uid="314f6234-1b1f-439c-b952-85ae7759c887"/>
+    <weighted-embedded-action uid="10488b84-b6aa-41a9-94f5-8b67337fd274"/>
+    <weighted-embedded-action uid="1088279e-9909-4233-a23a-45b8725adce8"/>
+    <weighted-embedded-action uid="6ba904f6-ceb7-4407-b887-b002c284f264"/>
+    <weighted-embedded-action uid="91ffaa84-985e-4522-9c6a-b3f703be5134"/>
+    <weighted-embedded-action uid="137bc65b-4d47-4bb1-9151-64591fc77827"/>
+</basic-logical-action-container>

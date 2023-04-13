@@ -1,0 +1,1 @@
+<variable-currentdate inc-type="0" inc-value="0" name="OMS_BenchMark_1p_TO_3p_CitrixTimestamp" order="1" pattern="milliseconds since the UNIX epoch" policy="1" range="2" uid="e049fafe-f31e-4eb3-931e-18a723a9d797" whenOutOfValues="CYCLE_VALUES"/>

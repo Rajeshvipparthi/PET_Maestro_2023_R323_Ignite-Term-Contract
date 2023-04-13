@@ -1,0 +1,9 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_BenchMark_DualPlay_Provide_TechOrder_11_Product_conformation"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="d1eb0b4d-cb06-4ab7-ba93-86f68b8dfa91" weightsEnabled="false">
+    <weighted-embedded-action uid="d6774f37-c8df-4a37-84b7-079c0f543d2d"/>
+    <weighted-embedded-action uid="a729d684-6bc2-4854-b7b4-b10b6302ef09"/>
+    <weighted-embedded-action uid="ee832add-3bca-4350-b703-de9ed32c25b0"/>
+</basic-logical-action-container>

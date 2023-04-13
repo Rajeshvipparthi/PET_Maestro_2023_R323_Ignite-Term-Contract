@@ -1,0 +1,1 @@
+<variable-currentdate inc-type="0" inc-value="0" name="CitrixTimestamp" order="1" pattern="milliseconds since the UNIX epoch" policy="1" range="2" uid="bb83999f-155c-4682-8840-9a033d877e1a" whenOutOfValues="CYCLE_VALUES"/>

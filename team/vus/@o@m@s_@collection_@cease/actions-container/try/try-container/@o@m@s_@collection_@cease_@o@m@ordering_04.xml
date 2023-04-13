@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_Collection_Cease_OMOrdering_04" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="e476f928-382f-403e-bc88-864848627df7" weightsEnabled="false">
+    <weighted-embedded-action uid="311c4b5e-1359-4791-bf30-930295f253c6"/>
+    <weighted-embedded-action uid="6a5b9900-eeaa-4a63-8faa-d165ab43972d"/>
+</basic-logical-action-container>

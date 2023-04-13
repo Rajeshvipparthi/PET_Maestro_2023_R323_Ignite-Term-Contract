@@ -1,0 +1,3 @@
+<variable-file delimiters="," filename="OMS_BenchMark_GrabAndGoFAIDS.txt" name="OMS_BenchMark_GrabAndGO_FAIDS" offset="1" order="1" policy="5" range="4" uid="02dd425b-0f8b-4a55-b206-745f7a14440a" useFirstLine="true" whenOutOfValues="CYCLE_VALUES">
+<column name="FAIDS" number="0"/>
+</variable-file>

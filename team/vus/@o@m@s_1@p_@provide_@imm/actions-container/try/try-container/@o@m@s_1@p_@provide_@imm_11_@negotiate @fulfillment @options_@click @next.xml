@@ -1,0 +1,8 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_1P_Provide_Imm_11_Negotiate Fulfillment Options_Click Next"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="4433de98-47d1-44b8-88bf-ea76b94993a0" weightsEnabled="false">
+    <weighted-embedded-action uid="ca753dec-7cb4-4fc2-95f0-e33065e06a9d"/>
+    <weighted-embedded-action uid="cd917ec5-d7e3-4afc-825c-82664dcbbb98"/>
+</basic-logical-action-container>

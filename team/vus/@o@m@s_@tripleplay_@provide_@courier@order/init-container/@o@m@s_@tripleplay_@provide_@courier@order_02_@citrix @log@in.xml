@@ -1,0 +1,14 @@
+<basic-logical-action-container element-number="1" enabled="false"
+    execution-type="0"
+    name="OMS_Tripleplay_Provide_CourierOrder_02_Citrix LogIn"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="3cab883a-aecd-4735-82fd-d1d0c4d1a5af" weightsEnabled="false">
+    <weighted-embedded-action uid="9aee0754-1a5c-4236-8d85-93ce279cd8da"/>
+    <weighted-embedded-action uid="5e56a533-e691-483c-b72b-215d1869cc12"/>
+    <weighted-embedded-action uid="876a2bae-4b81-44a6-944d-a93d0dcb49f2"/>
+    <weighted-embedded-action uid="3f7f9123-c9ef-4c29-b5c3-407591c5bc8d"/>
+    <weighted-embedded-action uid="f61c69f8-c73b-4328-be6e-9128df894412"/>
+    <weighted-embedded-action uid="501b91c9-7646-4f0b-9bc5-7f6664718ad4"/>
+    <weighted-embedded-action uid="f8aaa0ea-984e-4492-9894-255635647eed"/>
+</basic-logical-action-container>

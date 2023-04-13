@@ -1,0 +1,9 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_Tripleplay_Provide_TechOrder_07_Select_Offer"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="bcf8b1e2-d196-4d69-9c3f-598cb93eb76d" weightsEnabled="false">
+    <weighted-embedded-action uid="0c872968-fb61-4558-bb0f-879ce50cf794"/>
+    <weighted-embedded-action uid="69c9c677-cbde-43b5-9585-e59e48169ad8"/>
+    <weighted-embedded-action uid="1d968697-467b-478c-a982-7498b7d588f8"/>
+</basic-logical-action-container>

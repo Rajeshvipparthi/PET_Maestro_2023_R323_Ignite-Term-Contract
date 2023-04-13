@@ -1,0 +1,8 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Tripleplay_Change_Internet_07_Update Order Action Attributes_Click Next"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="ba96c66b-4ede-4e95-96c6-02088a6a5d4e" weightsEnabled="false">
+    <weighted-embedded-action uid="e5fb1995-e109-4b28-b6eb-34795287a475"/>
+    <weighted-embedded-action uid="8264f601-9330-4d0e-be2c-7198d0834024"/>
+</basic-logical-action-container>

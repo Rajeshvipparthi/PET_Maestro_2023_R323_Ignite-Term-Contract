@@ -1,0 +1,10 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_BenchMark_DualPlay_Provide_TechOrder_01_Launch Citrix"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="881a961b-c9e9-4d39-95d2-45be5cff3df1" weightsEnabled="false">
+    <weighted-embedded-action uid="962cee30-d96e-4b31-91d0-df9df4553bbe"/>
+    <weighted-embedded-action uid="84027bee-d4d7-4ac4-90c3-10227713d855"/>
+    <weighted-embedded-action uid="3b3c8fcb-ceb8-476c-908c-aff81b60c0f1"/>
+    <weighted-embedded-action uid="54f862be-67e9-41c7-87c4-8969c4101e52"/>
+</basic-logical-action-container>

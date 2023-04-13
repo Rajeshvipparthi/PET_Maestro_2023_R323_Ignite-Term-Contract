@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" enabled="false"
+    execution-type="0" name="OMSProposePhoneNumber" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="4260645d-ce0f-4391-b5ec-92ed32dec845" weightsEnabled="false">
+    <weighted-embedded-action uid="a5a2cfc9-1b06-4edc-ab4e-a2da0211d5d7"/>
+    <weighted-embedded-action uid="88511176-3790-4dcd-812c-2bde36ba5a3a"/>
+</basic-logical-action-container>

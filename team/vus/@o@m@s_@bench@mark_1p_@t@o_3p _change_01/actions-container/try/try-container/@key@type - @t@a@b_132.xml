@@ -1,0 +1,12 @@
+<custom-action actionType="CitrixKeyType" isHit="false"
+    name="KeyType - TAB_132" uid="4378a576-739e-4c3a-b9a3-db6c97767c8a">
+    <description>This Action sends a key with an optional list of modifiers.
+
+Possible parameters are:&#xd;
+- keyCode (required): KeyCode from the following: [LEFT_ARROW, UP_ARROW, RIGHT_ARROW, DOWN_ARROW, ADD, MULTIPLY, SUBSTRACT, DIVIDE, ALT, BACKSPACE, SPACE, CAPSLOCK, CTRL, DEL, END, ENTER, ESC, F1, F2, F3, F4, F5, F6, F7, F8, F9, F10, F11, F12, HOME, INS, NUMLOCK, PAGE_DOWN, PAGE_UP, PRINTSCREEN, SCROLL, SHIFT, TAB, NUMPAD_0, NUMPAD_1, NUMPAD_2, NUMPAD_3, NUMPAD_4, NUMPAD_5, NUMPAD_6, NUMPAD_7, NUMPAD_8, NUMPAD_9, WINDOW_LEFT, WINDOW_RIGHT].&#xd;
+- modifiers (optional): Comma separated modifiers from the following: [ALT, CTRL, SHIFT, EXTENDED].</description>
+    <custom-action-parameter name="keyCode" type="TEXT" value="TAB"/>
+    <custom-action-parameter name="modifiers" type="TEXT" value=""/>
+    <responsePageFileDescription>recorded-responses/res_6d4db0dc-be1e-4ac8-b69f-6b1d0c652288</responsePageFileDescription>
+    <screenshotFileDescription>team/vus/@o@m@s_@bench@mark_1p_@t@o_3p _change_01/%resources%/recorded-screenshots/sc_03247c8b-a6b1-4c5f-83b6-79ee252ca9c9.png</screenshotFileDescription>
+</custom-action>

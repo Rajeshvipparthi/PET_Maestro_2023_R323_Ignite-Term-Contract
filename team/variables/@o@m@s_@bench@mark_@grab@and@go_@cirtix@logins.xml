@@ -1,0 +1,4 @@
+<variable-file delimiters="," filename="OMS_BenchMark_GrabAndGoCitrix_Credentials.txt" name="OMS_BenchMark_GrabAndGo_CirtixLogins" offset="1" order="3" policy="4" range="4" uid="76d28308-ba3b-4500-bcbf-e13c91b37608" useFirstLine="true" whenOutOfValues="CYCLE_VALUES">
+<column name="CitrixLogin" number="0"/>
+<column name="CitrixPassword" number="1"/>
+</variable-file>

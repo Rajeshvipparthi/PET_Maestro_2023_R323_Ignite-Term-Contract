@@ -1,0 +1,8 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="4P_DIY_Provide_Tech_08_Select Offers and Products_Click Next"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="adeb6796-6318-438d-a600-3ccad059eda8" weightsEnabled="false">
+    <weighted-embedded-action uid="c4039e24-a7ba-42bc-8418-bb0345ea2da4"/>
+    <weighted-embedded-action uid="658868f7-240d-44d9-8105-30e69dc58e07"/>
+</basic-logical-action-container>

@@ -1,0 +1,1 @@
+<variable-currentdate inc-type="0" inc-value="0" name="OMS_Tripleplay_ChangeCitrixTimestamp" order="1" pattern="milliseconds since the UNIX epoch" policy="1" range="2" uid="dbc9a8be-84d7-446f-9d57-abbf736e130e" whenOutOfValues="CYCLE_VALUES"/>

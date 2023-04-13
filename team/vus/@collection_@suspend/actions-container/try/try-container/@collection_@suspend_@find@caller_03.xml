@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Collection_Suspend_FindCaller_03" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="9de39004-ef0a-4b6a-8d74-292f90529426" weightsEnabled="false">
+    <weighted-embedded-action uid="e0a1ae91-57eb-460b-b531-ec795d689fbe"/>
+    <weighted-embedded-action uid="4eee51c8-72db-4b09-bbd2-8b96e01437f9"/>
+</basic-logical-action-container>

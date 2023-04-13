@@ -1,0 +1,12 @@
+<basic-logical-action-container element-number="1" enabled="false"
+    execution-type="0" name="OMS_1P_Provide_Imm_03_LuanchApplication"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="c7f89d8e-33bf-42ac-b4cb-7e9f3f86fb31" weightsEnabled="false">
+    <weighted-embedded-action uid="77d0eace-38f5-4940-bd62-258bac86b74b"/>
+    <weighted-embedded-action uid="7df7a0be-ec89-44cc-a771-7de7bff820d5"/>
+    <weighted-embedded-action uid="9d7fa486-0811-4bbd-bb7c-7cc0519b5128"/>
+    <weighted-embedded-action uid="7f374dca-5911-44b5-85f7-a9859a96256d"/>
+    <weighted-embedded-action uid="95a28c1e-2735-4a4f-8249-268c21e179c8"/>
+    <weighted-embedded-action uid="60c4a13b-b80e-4f91-8c9e-294f1f9b0f6a"/>
+</basic-logical-action-container>

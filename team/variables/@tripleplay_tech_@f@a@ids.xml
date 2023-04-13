@@ -1,0 +1,3 @@
+<variable-file delimiters="," filename="P_FAIDS.txt" name="Tripleplay_tech_FAIds" offset="1" order="3" policy="5" range="1" uid="212a0fc1-ba6f-40d0-8c86-4d0480be86d0" useFirstLine="true" whenOutOfValues="CYCLE_VALUES">
+<column name="FAIDS" number="0"/>
+</variable-file>

@@ -1,0 +1,12 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_CirtixLunch_1" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="430e18fc-dde2-47d3-b9c4-56dc032d6b8b" weightsEnabled="false">
+    <weighted-embedded-action uid="9c5a6b51-a44e-4590-8586-737721d8cc7d"/>
+    <weighted-embedded-action uid="a6a1b983-e4b3-4481-97fa-6c1a67a2707d"/>
+    <weighted-embedded-action uid="3f3ae346-2461-4c34-bdf2-8fd1ba895896"/>
+    <weighted-embedded-action uid="a3ace385-80da-43cb-a55e-e2f35f8c1aaf"/>
+    <weighted-embedded-action uid="135d40d1-abda-4402-a8f8-2c96ae40dbb3"/>
+    <weighted-embedded-action uid="585d70d8-5a4f-43d5-b1a3-6eab5ede3a04"/>
+    <weighted-embedded-action uid="f1338fdf-2e1c-4268-8a0e-d119894d6563"/>
+</basic-logical-action-container>

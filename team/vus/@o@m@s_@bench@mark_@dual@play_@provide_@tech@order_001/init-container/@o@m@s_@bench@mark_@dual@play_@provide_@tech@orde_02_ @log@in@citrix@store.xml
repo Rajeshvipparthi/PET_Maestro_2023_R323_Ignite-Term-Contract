@@ -1,0 +1,8 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_BenchMark_DualPlay_Provide_TechOrde_02_ LogInCitrixStore"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="3d1cdde2-7e41-427c-b9a1-4873dbfa7551" weightsEnabled="false">
+    <weighted-embedded-action uid="b2732844-6444-4bf2-938d-06114af8765f"/>
+    <weighted-embedded-action uid="624514ee-afcd-41b8-90ad-13d836eca10e"/>
+</basic-logical-action-container>

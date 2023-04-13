@@ -1,0 +1,9 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_BeanchMark_1p_Cease_04_CRM LogIn" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="5ad7590c-8678-4f82-8888-34e5876144c8" weightsEnabled="false">
+    <weighted-embedded-action uid="7414aaed-61d8-4124-8ae3-e4e368229926"/>
+    <weighted-embedded-action uid="167ec4d9-3f63-4ec1-a2b4-1b2f07ec1236"/>
+    <weighted-embedded-action uid="f1b8b647-5d1e-447f-b630-1d22992fbc91"/>
+    <weighted-embedded-action uid="d446bd7c-62e2-462f-ac0c-025edc55a5d1"/>
+</basic-logical-action-container>

@@ -1,0 +1,17 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_BenchMark_DualPlay_Provide_TechOrder_08_Negotiate Product Configuration_Click Next"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="96c13bb7-5184-41c8-a81e-02ec6c53f06a" weightsEnabled="false">
+    <weighted-embedded-action uid="a9e28e7f-52ea-411a-8c66-35b45007be85"/>
+    <weighted-embedded-action uid="2d758300-6238-4a62-b073-2368eb239aa2"/>
+    <weighted-embedded-action uid="1ac1a802-e9f5-4c1a-b24d-af1d6a6001fd"/>
+    <weighted-embedded-action uid="64886ab0-b66d-4bc7-9365-955e30e41216"/>
+    <weighted-embedded-action uid="6d9a1e24-e5c3-4aae-9f82-b0c61275c005"/>
+    <weighted-embedded-action uid="fe1792d2-1857-4d87-895d-631a360d829d"/>
+    <weighted-embedded-action uid="d126e840-afe8-4861-9863-b70ab48949ae"/>
+    <weighted-embedded-action uid="d615d383-386b-477a-a2f7-a9bbc596f15c"/>
+    <weighted-embedded-action uid="53adfd0e-1853-414c-907f-ee7a6a24629a"/>
+    <weighted-embedded-action uid="75657254-b044-40ad-8809-60ed7fe50cb2"/>
+    <weighted-embedded-action uid="bff47ccf-0d70-4ae7-94c5-70c611c0fe1e"/>
+</basic-logical-action-container>

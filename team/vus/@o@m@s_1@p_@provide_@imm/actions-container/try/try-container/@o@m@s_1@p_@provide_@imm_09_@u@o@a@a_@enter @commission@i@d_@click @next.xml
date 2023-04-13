@@ -1,0 +1,8 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_1P_Provide_Imm_09_UOAA_Enter CommissionID_Click Next"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="e99c06e3-0f16-4bc7-9a5e-0244426c3d3a" weightsEnabled="false">
+    <weighted-embedded-action uid="4d075095-77b8-4c5a-bc22-b35ad1c1bfad"/>
+    <weighted-embedded-action uid="ee4a1c96-041b-4d5e-b31a-bb415ec9cc8a"/>
+</basic-logical-action-container>

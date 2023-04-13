@@ -1,0 +1,13 @@
+<custom-action actionType="CitrixTextType" isHit="false"
+    name="TextType - X Select Bundle + 250M_1" uid="1f12c15e-906f-4dee-b96e-22373f10b362">
+    <description>This Action sends a text with an optional list of modifiers.
+
+Possible parameters are:&#xd;
+- text (required): Alphanumeric text to send on the keyboard.&#xd;
+- typingRateInMs (optional): Delay in milliseconds between each key typed. "0" means no delay. Default value is "150".&#xd;
+- modifiers (optional): Comma separated modifiers from the following: [ALT, CTRL, SHIFT, EXTENDED].</description>
+    <custom-action-parameter name="text" type="TEXT" value="X Select Bundle + 250M"/>
+    <custom-action-parameter name="modifiers" type="TEXT" value=""/>
+    <responsePageFileDescription>recorded-responses/res_7117570e-a816-4ec2-b94d-bfa4e33200e6</responsePageFileDescription>
+    <screenshotFileDescription>team/vus/@o@m@s_@bench@mark_@dual@play_@provide_@tech@order_001/%resources%/recorded-screenshots/sc_b1ab6e41-8645-4d38-aa09-77b25123f5b1.png</screenshotFileDescription>
+</custom-action>

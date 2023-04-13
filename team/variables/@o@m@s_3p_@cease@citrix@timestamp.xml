@@ -1,0 +1,1 @@
+<variable-currentdate inc-type="0" inc-value="0" name="OMS_3p_CeaseCitrixTimestamp" order="1" pattern="milliseconds since the UNIX epoch" policy="1" range="2" uid="0faa9c1f-8659-4b37-9ea9-b9871dfdb16f" whenOutOfValues="CYCLE_VALUES"/>

@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Collection_Suspend_Intraction_Home_04" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="487afcdf-f37c-442c-a4f6-d1d05c018177" weightsEnabled="false">
+    <weighted-embedded-action uid="ac64c8dc-f136-4379-a186-88fca214c8f2"/>
+    <weighted-embedded-action uid="8548dc06-08fa-4b62-93e5-4f21518e1b7b"/>
+</basic-logical-action-container>

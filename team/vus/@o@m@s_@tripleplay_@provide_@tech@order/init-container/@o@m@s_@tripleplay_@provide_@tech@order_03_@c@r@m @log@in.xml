@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_Tripleplay_Provide_TechOrder_03_CRM LogIn" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="b8680bb8-ef6c-4c43-9ef1-74c848f891d6" weightsEnabled="false">
+    <weighted-embedded-action uid="514276dc-42db-4af6-9e14-caf6d6474489"/>
+    <weighted-embedded-action uid="a59cdf13-c37c-44a5-9237-910334d3f659"/>
+</basic-logical-action-container>

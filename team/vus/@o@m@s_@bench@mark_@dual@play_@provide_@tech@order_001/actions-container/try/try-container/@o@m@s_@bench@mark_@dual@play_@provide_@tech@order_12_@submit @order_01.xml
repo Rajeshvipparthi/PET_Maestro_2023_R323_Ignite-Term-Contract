@@ -1,0 +1,8 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_BenchMark_DualPlay_Provide_TechOrder_12_Submit Order_01"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="3f45ca0f-9b26-4ba7-a9f2-a8ecb21b21d1" weightsEnabled="false">
+    <weighted-embedded-action uid="28434c43-564a-4668-9433-52fa2d6750da"/>
+    <weighted-embedded-action uid="2cfbb0aa-5d66-403b-aa57-70355e4d46ec"/>
+</basic-logical-action-container>

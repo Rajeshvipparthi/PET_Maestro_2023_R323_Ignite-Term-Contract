@@ -1,0 +1,8 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Tripleplay_Change_IRemove_Chanal_09_Negotiate Product Configuration_Click Next"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="81464acd-f893-4d41-8c71-cf60a35f65b9" weightsEnabled="false">
+    <weighted-embedded-action uid="b4319cdb-6789-44f9-8263-da630f2ba2d9"/>
+    <weighted-embedded-action uid="86cd03f1-2e53-40d3-a191-12a4ed999ea0"/>
+</basic-logical-action-container>

@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" enabled="false"
+    execution-type="0" name="Login_Citrixstore" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="48fbce13-c215-4156-ab07-ef97c99d2a23" weightsEnabled="false">
+    <weighted-embedded-action uid="9fd33f79-e68e-431c-a1c9-5f0c935b6195"/>
+</basic-logical-action-container>

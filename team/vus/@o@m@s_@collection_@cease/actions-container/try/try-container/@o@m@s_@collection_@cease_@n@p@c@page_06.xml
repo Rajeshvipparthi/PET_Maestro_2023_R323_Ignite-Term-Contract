@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_Collection_Cease_NPCPage_06" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="1872ef46-7a2e-4707-8374-2f7c95454e7a" weightsEnabled="false">
+    <weighted-embedded-action uid="8461af43-c2bd-490f-b35d-5892934bf640"/>
+    <weighted-embedded-action uid="2d670f22-abe5-471c-ae5d-3d673e385c62"/>
+</basic-logical-action-container>

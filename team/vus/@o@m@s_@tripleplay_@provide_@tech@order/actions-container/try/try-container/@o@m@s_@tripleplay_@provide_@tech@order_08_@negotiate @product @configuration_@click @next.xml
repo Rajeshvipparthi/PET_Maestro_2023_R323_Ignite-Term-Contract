@@ -1,0 +1,9 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_Tripleplay_Provide_TechOrder_08_Negotiate Product Configuration_Click Next"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="ffad347c-9ade-4345-b7b1-a3163783df8d" weightsEnabled="false">
+    <weighted-embedded-action uid="fc95aead-2420-415f-97ca-af32a57962bd"/>
+    <weighted-embedded-action uid="a8e25804-fb31-421d-83c0-7a4f36bb094d"/>
+    <weighted-embedded-action uid="0c82437c-0a79-4447-9008-d2b8264590d5"/>
+</basic-logical-action-container>

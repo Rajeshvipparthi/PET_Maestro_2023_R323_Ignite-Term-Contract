@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_1P_Provide_Imm_07_Installation" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="2b2abb59-351d-4dca-a943-4594a704dfe0" weightsEnabled="false">
+    <weighted-embedded-action uid="cea1d39d-0e39-4d1a-9f69-ad05e7119eb0"/>
+    <weighted-embedded-action uid="01512113-51b6-4217-9447-c7c431aaa180"/>
+</basic-logical-action-container>

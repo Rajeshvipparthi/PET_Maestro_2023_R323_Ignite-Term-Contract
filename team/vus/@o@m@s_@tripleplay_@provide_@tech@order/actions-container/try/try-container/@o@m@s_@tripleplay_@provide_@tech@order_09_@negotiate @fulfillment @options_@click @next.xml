@@ -1,0 +1,8 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_Tripleplay_Provide_TechOrder_09_Negotiate Fulfillment Options_Click Next"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="6356afcd-ccca-47ea-b3b0-09d11d239646" weightsEnabled="false">
+    <weighted-embedded-action uid="02f77ada-21dd-4c81-9440-c0300f5f388a"/>
+    <weighted-embedded-action uid="b105bd21-3ae9-4952-b3c0-26a5f3ec1dc5"/>
+</basic-logical-action-container>

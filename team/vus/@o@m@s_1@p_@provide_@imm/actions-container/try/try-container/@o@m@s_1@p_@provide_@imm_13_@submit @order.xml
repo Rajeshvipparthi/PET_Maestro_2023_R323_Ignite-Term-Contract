@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="OMS_1P_Provide_Imm_13_Submit Order" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="1f8f7a15-3913-4b06-8ebd-dbab4bc5fd7d" weightsEnabled="false">
+    <weighted-embedded-action uid="87c12dc7-54e4-4581-90fb-25e7054654d4"/>
+</basic-logical-action-container>

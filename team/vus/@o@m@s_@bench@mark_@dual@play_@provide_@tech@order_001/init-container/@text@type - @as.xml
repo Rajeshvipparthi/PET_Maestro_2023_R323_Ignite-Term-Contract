@@ -1,0 +1,13 @@
+<custom-action actionType="CitrixTextType" isHit="false"
+    name="TextType - As" uid="f22fc7c6-09db-4bc8-a423-720f2cc96868">
+    <description>This Action sends a text with an optional list of modifiers.
+
+Possible parameters are:&#xd;
+- text (required): Alphanumeric text to send on the keyboard.&#xd;
+- typingRateInMs (optional): Delay in milliseconds between each key typed. "0" means no delay. Default value is "150".&#xd;
+- modifiers (optional): Comma separated modifiers from the following: [ALT, CTRL, SHIFT, EXTENDED].</description>
+    <custom-action-parameter name="text" type="TEXT" value="${OMS_BenchMark_DualPlay_TechOrder_CRMLogin.Username}"/>
+    <custom-action-parameter name="modifiers" type="TEXT" value=""/>
+    <responsePageFileDescription>recorded-responses/res_33ca1408-4027-4cb7-8d33-3c56305a2e97</responsePageFileDescription>
+    <screenshotFileDescription>team/vus/@o@m@s_@bench@mark_@dual@play_@provide_@tech@order_001/%resources%/recorded-screenshots/sc_33ca1408-4027-4cb7-8d33-3c56305a2e97.png</screenshotFileDescription>
+</custom-action>
